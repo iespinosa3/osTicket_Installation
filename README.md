@@ -41,6 +41,9 @@ Navigate back to  https://portal.azure.com/#home and click the virtual machine i
 Once your virtual machine has been deployed, it's time to RDP into your virtual machine.
 <p align = center>
 <img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/13/02/21/c0fInrVas1S/preview.jpg" alt=""/>
+  <p align = center>
+  You can watch this video for further instructions: <a href="https://youtu.be/3EPa4qw4P1k?t=238">Click Here</a>
+</p>
 </p>
 You can watch this video for further instructions: (3:58.84)
 
