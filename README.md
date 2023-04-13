@@ -10,22 +10,24 @@ osTicket can be installed on your own computer; however, we will be using a virt
 
 To begin creating a virtual machine in Azure Cloud, we will need to set up a subscription. 
 Link:   https://portal.azure.com
-<p algin = center>
+<p align = center>
 <img src="#" alt=""/>
 </p>
 Once you have your subscription created, you should see a screen look that looks similar to this or  you can navigate to  https://portal.azure.com/#home
-<p algin = center>
+<p align = center>
 <img src="#" alt=""/>
 </p>
 
 Next we will click on Resource Group Icon to name and create a resource group. I have given my resource group the name “osTicket-lab” but you can name it whatever you like.
-<p algin = center>
+<p align = center>
 <img src="#" alt=""/>
 </p>
 
 Once you follow through by clicking the various prompts to review and create your resource group, the deployment of your resource group should begin. Just remember to take note of the resource group region. It will be very important in optimizing networking capabilities. <br>
-You can watch this video for further instructions:( 0:31.16)
-<p algin = center>
+<p align = center>
+  You can watch this video for further instructions: <a href="https://youtu.be/3EPa4qw4P1k?t=238">Click Here</a>
+</p>
+<p align = center>
 <img src="#" alt=""/>
 </p>
 Now, let's add the Virtual machine.
@@ -37,8 +39,8 @@ Navigate back to  https://portal.azure.com/#home and click the virtual machine i
 
 
 Once your virtual machine has been deployed, it's time to RDP into your virtual machine.
-<p algin = center>
-<img src="#" alt=""/>
+<p align = center>
+<img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/13/02/21/c0fInrVas1S/preview.jpg" alt=""/>
 </p>
 You can watch this video for further instructions: (3:58.84)
 
