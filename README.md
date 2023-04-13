@@ -51,9 +51,17 @@ Once your virtual machine has been deployed, it's time to RDP into your virtual 
   You can watch this video for further instructions: <a href="https://youtu.be/3EPa4qw4P1k?t=238">Click Here</a>
 </p>
 </p>
-You can watch this video for further instructions: (3:58.84)
 
+<br>
+<br>
+Once you have a remote connection into your virtual machine in Azure, will install the prerequisite software needed to install osTicket. Download all of these files. There are seven files in total.
 
+<p align = center>
+<img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/13/03/21/c0fIerVas2m/preview.jpg" alt=""/>
+  <p align = center>
+  You can watch this video for further instructions: <a href="https://youtu.be/3EPa4qw4P1k?t=344">Click Here</a>
+</p>
+</p>
 
 
 
