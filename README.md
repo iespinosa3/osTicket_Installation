@@ -29,6 +29,8 @@ Once you follow through by clicking the various prompts to review and create you
 <p align = center>
 <img src="#" alt=""/>
 </p>
+
+
 <br>
 <br>
 Now, let's add the Virtual machine.
@@ -63,7 +65,9 @@ Once you have a remote connection into your virtual machine in Azure, will insta
 </p>
 </p>
 
+<br>
 
+There is much more to do once the virtual machines are created; however, instead of typing all the steps out I have created a detail video documenting the installation of osTicket in the Azure Cloud. You can watch the full length video here. <a href="https://youtu.be/3EPa4qw4P1k">Click Here</a>
 
 <br />
 
