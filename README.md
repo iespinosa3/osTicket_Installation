@@ -69,8 +69,5 @@ Once you have a remote connection into your virtual machine in Azure, will insta
 
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/3EPa4qw4P1k)
 
 <br />
